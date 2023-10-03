@@ -1,6 +1,7 @@
 # Mental_health_analysis in R
 
-##Introduction
+# Introduction
+
 We have been given a dataset which contains data collected via a questionnaire from Kenyan
 high schools in June 2018. The primary objective is to determine if a relationship exists between Generalized
 
